@@ -6,4 +6,3 @@
 &nbsp;&nbsp;&nbsp;💭 &nbsp;Passionate about problem solving and self development.\
 &nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently exploring capabilities and use cases of LLMs.\
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since 2019, specializing in JavaScript.\
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Living in the US.
